@@ -10,7 +10,7 @@ Objective:
 ---
 ## How to Participate
 - Fork the Repository
-- Commit your code and push it to your fork in a folder with a appropriate name.<br>
+- Commit your code and push it to your fork in a folder of that specific day with a appropriate file name.<br>
 - Maintain your fork by submitting all of the problems released over the thirty days.<br>
 - Maintain all your submissions in the forked repository for tracking.
 ---
