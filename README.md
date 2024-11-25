@@ -28,7 +28,7 @@ Objective:
 ### Points Distribuation
 - Full Solution: 10 points
 - Partial Solution: 5 points
-- Hackathon Problems: 50 points each
+- Hackathon Problems: 200 points
 ---
 ## Top Performers:
 
