@@ -56,8 +56,3 @@ Objective:
 - Full Solution: 10 points
 - Partial Solution: 5 points
 - Hackathon Problems: 200 points
----
-## Top Performers:
-
-- The leaderboard will highlight participant's cumulative scores.
-- Top 5 participants who demonstrate consistency and problem-solving skills will win recognition or prizes.
