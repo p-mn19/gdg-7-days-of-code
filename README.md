@@ -14,7 +14,9 @@ Objective:
 - [Komal Tiwari](https://github.com/fudgemenot)
 - [Bhoomi Parekh](https://github.com/bhoomiparekh313)
 - [Chaitrali Raje](https://github.com/chai127)
-  
+
+----------------------------------------------------
+
 - [Divya Gurav](https://github.com/Diya411)
 - [Himanshi Bhat](https://github.com/Himanshhii)
 - [Samani Humaira](https://github.com/Samani-Humaira)
